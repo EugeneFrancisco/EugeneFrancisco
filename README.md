@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EugeneFrancisco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... eugjavfra01@gmail.com
+My name is Eugene. 
+eugjavfra01@gmail.com
+I like math
+
+
 
 <!---
 EugeneFrancisco/EugeneFrancisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
