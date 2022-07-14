@@ -1,6 +1,6 @@
-My name is Eugene. 
-eugjavfra01@gmail.com
-I like math
+My name is Eugene \n
+eugjavfra01@gmail.com  \n
+I like math  \n
 
 
 
